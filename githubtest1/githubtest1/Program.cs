@@ -14,7 +14,7 @@ namespace githubtest1
 
             Console.WriteLine("Juan sux at GitHub haha!");
 
-            Console.WriteLine("do u have to commit with summary");
+            Console.WriteLine("do u have to commit with summary where are these flintstones!!!!");
             Console.ReadKey();
         }
     }
