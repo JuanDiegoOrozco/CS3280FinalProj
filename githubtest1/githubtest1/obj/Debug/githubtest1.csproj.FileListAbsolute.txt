@@ -1,1 +1,7 @@
 c:\users\orozc\documents\visual studio 2015\Projects\githubtest1\githubtest1\bin\Debug\githubtest1.exe.config
+D:\finalProd\CS3280FinalProj\githubtest1\githubtest1\bin\Debug\githubtest1.exe.config
+D:\finalProd\CS3280FinalProj\githubtest1\githubtest1\bin\Debug\githubtest1.exe
+D:\finalProd\CS3280FinalProj\githubtest1\githubtest1\bin\Debug\githubtest1.pdb
+D:\finalProd\CS3280FinalProj\githubtest1\githubtest1\obj\Debug\githubtest1.csprojResolveAssemblyReference.cache
+D:\finalProd\CS3280FinalProj\githubtest1\githubtest1\obj\Debug\githubtest1.exe
+D:\finalProd\CS3280FinalProj\githubtest1\githubtest1\obj\Debug\githubtest1.pdb

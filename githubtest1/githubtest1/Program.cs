@@ -11,6 +11,8 @@ namespace githubtest1
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+
+            Console.WriteLine("Juan sux at GitHub haha!");
             Console.ReadKey();
         }
     }
