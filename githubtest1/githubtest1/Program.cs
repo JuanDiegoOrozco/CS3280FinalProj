@@ -10,11 +10,15 @@ namespace githubtest1
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("hello world");
 
             Console.WriteLine("Juan sux at GitHub haha!");
 
             Console.WriteLine("do u have to commit with summary where are these flintstones!!!!");
+=======
+            Console.WriteLine("hello world!!!!!");
+>>>>>>> origin/master
             Console.ReadKey();
         }
     }
