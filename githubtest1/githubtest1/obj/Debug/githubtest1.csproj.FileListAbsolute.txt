@@ -1,1 +1,2 @@
 c:\users\orozc\documents\visual studio 2015\Projects\githubtest1\githubtest1\bin\Debug\githubtest1.exe.config
+C:\Users\marau\Documents\Visual Studio 2015\Projects\CS3280FinalProject\CS3280FinalProj\githubtest1\githubtest1\bin\Debug\githubtest1.exe.config
