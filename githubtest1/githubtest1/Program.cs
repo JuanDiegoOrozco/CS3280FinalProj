@@ -13,6 +13,8 @@ namespace githubtest1
             Console.WriteLine("hello world");
 
             Console.WriteLine("Juan sux at GitHub haha!");
+
+            Console.WriteLine("do u have to commit with summary");
             Console.ReadKey();
         }
     }
