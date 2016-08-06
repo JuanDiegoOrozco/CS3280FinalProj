@@ -1,3 +1,0 @@
-# CS3280FinalProj
-CS3280 Final Project
-JUAN IS A CHICKEN FUCKER!!!!!
