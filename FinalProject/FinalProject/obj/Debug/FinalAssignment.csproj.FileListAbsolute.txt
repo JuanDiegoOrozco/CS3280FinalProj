@@ -1,0 +1,6 @@
+C:\Users\orozc\Documents\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\orozc\Documents\FinalProject\FinalProject\obj\Debug\FinalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\orozc\Documents\FinalProject\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\orozc\Documents\FinalProject\FinalProject\obj\Debug\App.g.cs
+C:\Users\orozc\Documents\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\orozc\Documents\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref

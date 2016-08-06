@@ -1,0 +1,2 @@
+C:\Users\orozc\Documents\SCHOOL FILES & HOMEWORK\Object Oriented Windows Applications (C#)\Homework Assignments\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\orozc\Documents\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
