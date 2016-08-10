@@ -3,3 +3,8 @@ C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applicatio
 C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryData\obj\Debug\InventoryData.csprojResolveAssemblyReference.cache
 C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryData\obj\Debug\InventoryData.dll
 C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryData\obj\Debug\InventoryData.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryData\bin\Debug\InventoryData.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryData\bin\Debug\InventoryData.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.csprojResolveAssemblyReference.cache
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.pdb

@@ -10,3 +10,13 @@ C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applicatio
 C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryDataMapping\obj\Debug\InventoryDataMapping.csprojResolveAssemblyReference.cache
 C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryDataMapping\obj\Debug\InventoryDataMapping.dll
 C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryDataMapping\obj\Debug\InventoryDataMapping.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataMapping\bin\Debug\InventoryDataMapping.dll.config
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataMapping\bin\Debug\InventoryDataMapping.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataMapping\bin\Debug\InventoryDataMapping.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataMapping\bin\Debug\InventoryData.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataMapping\bin\Debug\InventoryData.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataMapping\bin\Debug\EntityFramework.xml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataMapping\bin\Debug\EntityFramework.SqlServer.xml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataMapping\obj\Debug\InventoryDataMapping.csprojResolveAssemblyReference.cache
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataMapping\obj\Debug\InventoryDataMapping.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataMapping\obj\Debug\InventoryDataMapping.pdb

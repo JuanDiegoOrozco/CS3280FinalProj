@@ -12,3 +12,15 @@ C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applicatio
 C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryDataInteraction\obj\Debug\InventoryDataInteraction.csprojResolveAssemblyReference.cache
 C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryDataInteraction\obj\Debug\InventoryDataInteraction.dll
 C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryDataInteraction\obj\Debug\InventoryDataInteraction.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\bin\Debug\InventoryDataInteraction.dll.config
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\bin\Debug\InventoryDataInteraction.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\bin\Debug\InventoryDataInteraction.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\bin\Debug\InventoryData.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\bin\Debug\InventoryDataMapping.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\bin\Debug\InventoryDataMapping.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\bin\Debug\InventoryData.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\bin\Debug\EntityFramework.xml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\bin\Debug\EntityFramework.SqlServer.xml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\obj\Debug\InventoryDataInteraction.csprojResolveAssemblyReference.cache
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\obj\Debug\InventoryDataInteraction.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalProj\FinalProject\FinalProject\InventoryDataInteraction\obj\Debug\InventoryDataInteraction.pdb

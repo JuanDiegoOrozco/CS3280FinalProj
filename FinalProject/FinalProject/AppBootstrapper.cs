@@ -6,7 +6,6 @@ namespace FinalAssignment
 	using FinalAssignment.ViewModels;
 	using InventoryData;
 	using InventoryDataInteraction;
-	using Common.Interfaces;
 
 	public class AppBootstrapper : BootstrapperBase
 	{
